@@ -9,10 +9,10 @@
         var name3 = document.getElementById("nameOfTheStudent3").value;
         var name4 = document.getElementById("nameOfTheStudent4").value;
 
-        name_of_the_student_array.push(name1);
-        name_of_the_student_array.push(name2);
-        name_of_the_student_array.push(name3);
-        name_of_the_student_array.push(name4);
+        nameOfTheStudentArray.push(name1);
+        nameOfTheStudentArray.push(name2);
+        nameOfTheStudentArray.push(name3);
+        nameOfTheStudentArray.push(name4);
 
 		console.log(nameOfTheStudentArray);
 		
